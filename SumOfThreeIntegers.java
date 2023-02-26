@@ -2,7 +2,7 @@ package assignments.CorejavaAndFunctionalprogram.FunctionalProgram;
 
 import java.util.Scanner;
 
-public class SumOfThreeInteger {
+public class SumOfThreeIntegers {
 
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
